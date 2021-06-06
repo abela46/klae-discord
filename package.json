@@ -1,0 +1,25 @@
+{
+  "name": "klae-discord",
+  "version": "16.5.3",
+  "description": "klae discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abela46/klae-discord.git"
+  },
+  "keywords": [
+    "klae"
+  ],
+  "author": "KL AE#2160",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abela46/klae-discord/issues"
+  },
+  "homepage": "https://github.com/abela46/klae-discord#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
